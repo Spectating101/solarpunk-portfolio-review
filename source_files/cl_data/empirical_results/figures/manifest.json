@@ -1,0 +1,21 @@
+{
+  "generated_by": "thesis_package/generate_thesis_figures.py",
+  "figures": [
+    "empirical_results/figures/thesis_evidence_path.png",
+    "empirical_results/figures/five_constraints_flow.png",
+    "empirical_results/figures/production_vs_consumption.png",
+    "empirical_results/figures/table_2_1_monetary_systems.png",
+    "empirical_results/figures/ceir_coef_pre_post.png",
+    "empirical_results/figures/ceir_distribution_by_regime.png",
+    "empirical_results/figures/ceir_timeline.png",
+    "empirical_results/figures/ceir_forward_returns.png",
+    "empirical_results/figures/trading_rule_comparison.png",
+    "empirical_results/figures/binomial_convergence.png",
+    "empirical_results/figures/cross_location_pricing.png",
+    "empirical_results/figures/oracle_tolerance_bars.png",
+    "empirical_results/figures/margin_stress_taiwan.png",
+    "empirical_results/figures/mint_attestation_flow.png",
+    "empirical_results/figures/spk_circulation_share.png",
+    "empirical_results/figures/launch_gate_stages.png"
+  ]
+}

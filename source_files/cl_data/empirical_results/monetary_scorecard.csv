@@ -1,0 +1,8 @@
+Property,Energy,Gold,Fiat,E_score,G_score,F_score
+Verifiable production cost floor,✓ NASA POWER irradiance → LCOE = verifiable floor,∂ Market price observable; cost varies by mine,✗ No production constraint,1.0,0.5,0.0
+Independent observability,"✓ Satellite data — publicly accessible, tamper-resistant",✗ Requires physical assay or market price trust,✗ Requires trust in central bank reporting,1.0,0.0,0.0
+Scarcity / irreversibility,✓ Energy once spent cannot be recreated retroactively,✓ Mining cost is real and irreversible,✗ Unlimited issuance at near-zero marginal cost,1.0,1.0,0.0
+Contractual enforcement (dispersion-proof),"✓ Smart contract liquidation: algorithmic, non-discretionary",✗ Required central bank coordination — failed 1971,"✗ Depends on policy decision, inherently discretionary",1.0,0.0,0.0
+Cash settlement without physical delivery,"✓ Oracle-settled cash payment, no physical transfer",✗ Physical custody required — impractical at digital scale,✓ Native digital transfer,1.0,0.0,1.0
+Credibility under geographic dispersion,✓ Contract terms survive any distribution of producers,✗ Requires concentrated custodians or central banks,✗ Requires policy coordination across jurisdictions,1.0,0.0,0.0
+Physics-based price floor,✓ LCOE derived from irradiance physics; floor is real,∂ Geological scarcity has physical basis; price less so,✗ No physical basis — pure convention,1.0,0.5,0.0

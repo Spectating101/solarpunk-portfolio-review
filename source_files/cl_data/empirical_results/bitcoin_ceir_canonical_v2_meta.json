@@ -1,0 +1,19 @@
+{
+  "output": "thesis_package/empirical_results/bitcoin_ceir_canonical_v2.csv",
+  "does_not_overwrite": "bitcoin_ceir_analysis_ready.csv",
+  "country_prices": {
+    "china": 0.04,
+    "usa": 0.065,
+    "russia": 0.05,
+    "kazakhstan": 0.045,
+    "canada": 0.07,
+    "malaysia": 0.055,
+    "iran": 0.035,
+    "others": 0.06
+  },
+  "geography": "cambridge_mining_distribution.csv",
+  "post_2022_rule": "freeze_last_weighted_month",
+  "pre_cambridge_rule": "first_month_weights",
+  "cumulative_start": "2018-01-01 from legacy complete calendar (same dates/energy/mcap)",
+  "note": "Uses legacy complete panel's Price/Market_Cap/Energy/FG for comparability; only rebuilds p and CEIR."
+}

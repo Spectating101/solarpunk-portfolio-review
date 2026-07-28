@@ -1,0 +1,10 @@
+{
+  "panel": "thesis_package/empirical_results/bitcoin_ceir_analysis_ready.csv",
+  "signal": "buy when CEIR < rolling_mean_180d - 1.5 * rolling_std_180d",
+  "total_return_strategy_pct": 176.42336124077934,
+  "total_return_buyhold_pct": 2771.4710451109477,
+  "sharpe_strategy": 0.7227521822218069,
+  "sharpe_buyhold": 1.1322270681160642,
+  "buy_signals": 256,
+  "note": "Reproduced from bitcoin_ceir_analysis_ready.csv by ceir_regression.py. Strategy underperforms buy-and-hold on total return and Sharpe."
+}

@@ -1,0 +1,64 @@
+country,year,metric,value,unit,source,notes
+Indonesia,2020,digital_economy_gmv_usd_billion,44.0,USD_billion,Google–Temasek–Bain e‑Conomy SEA reports (via Accura Indonesia) (2020)【62937256301364†L86-L99】,
+Indonesia,2021,digital_economy_gmv_usd_billion,70.0,USD_billion,Google–Temasek–Bain e‑Conomy SEA reports (via Accura Indonesia) (2021)【62937256301364†L86-L99】,
+Indonesia,2022,digital_economy_gmv_usd_billion,77.0,USD_billion,Google–Temasek–Bain e‑Conomy SEA reports (via Accura Indonesia) (2022)【62937256301364†L86-L99】,
+Indonesia,2023,digital_economy_gmv_usd_billion,82.0,USD_billion,Google–Temasek–Bain e‑Conomy SEA reports (via Accura Indonesia) (2023)【62937256301364†L86-L99】,
+Indonesia,2024,digital_economy_gmv_usd_billion,90.0,USD_billion,Google–Temasek–Bain e‑Conomy SEA reports (via Accura Indonesia) (2024)【62937256301364†L86-L99】,
+Indonesia,2025,digital_economy_gmv_usd_billion,130.0,USD_billion,International Trade Administration: Indonesia Digital Economy (2024)【479762897229967†L270-L274】,
+Thailand,2024,digital_economy_gmv_usd_billion,46.0,USD_billion,Compiled sheet: eConomy_SEA_2024 (check against PDF/country briefs),Country value requires external verification; some sources quote PH=31 for 2024.
+Malaysia,2024,digital_economy_gmv_usd_billion,31.0,USD_billion,Compiled sheet: eConomy_SEA_2024 (check against PDF/country briefs),Country value requires external verification; some sources quote PH=31 for 2024.
+Vietnam,2024,digital_economy_gmv_usd_billion,36.0,USD_billion,Compiled sheet: eConomy_SEA_2024 (check against PDF/country briefs),Country value requires external verification; some sources quote PH=31 for 2024.
+Philippines,2024,digital_economy_gmv_usd_billion,36.0,USD_billion,Compiled sheet: eConomy_SEA_2024 (check against PDF/country briefs),Country value requires external verification; some sources quote PH=31 for 2024.
+Malaysia,2020,tax_revenue_stods_usd_million,103.0,USD_million,Compiled sheet: Malaysia_SToDS_LVG,"Inaugural year, baseline"
+Malaysia,2021,tax_revenue_stods_usd_million,192.0,USD_million,Compiled sheet: Malaysia_SToDS_LVG,nan
+Malaysia,2022,tax_revenue_stods_usd_million,239.0,USD_million,Compiled sheet: Malaysia_SToDS_LVG,nan
+Malaysia,2023,tax_revenue_stods_usd_million,275.0,USD_million,Compiled sheet: Malaysia_SToDS_LVG,nan
+Malaysia,2024,tax_revenue_stods_usd_million,389.0,USD_million,Compiled sheet: Malaysia_SToDS_LVG,nan
+Malaysia,2024,tax_revenue_lvg_(low_value_goods)_usd_million,114.0,USD_million,Compiled sheet: Malaysia_SToDS_LVG,"Implemented January 1, 2024 (10% tax on imported goods <RM500)"
+Vietnam,2022,foreign_portal_vat_revenue_vnd_trillion,1.85,VND_trillion,Compiled sheet: Vietnam_Foreign_Portal,Portal launch year (March 2022)
+Vietnam,2023,foreign_portal_vat_revenue_vnd_trillion,6.896,VND_trillion,Compiled sheet: Vietnam_Foreign_Portal,nan
+Vietnam,2024,foreign_portal_vat_revenue_vnd_trillion,8.693,VND_trillion,Compiled sheet: Vietnam_Foreign_Portal,nan
+Malaysia,2020,tax_revenue_stods_usd,103000000.0,USD,Malaysia Parliament (Nov 25 2025),Confidence 99%; Local 428000000 RM
+Malaysia,2021,tax_revenue_stods_usd,192000000.0,USD,Malaysia Parliament (Nov 25 2025),Confidence 99%; Local 802000000 RM
+Malaysia,2022,tax_revenue_stods_usd,239000000.0,USD,Malaysia Parliament (Nov 25 2025),Confidence 99%; Local 999000000 RM
+Malaysia,2023,tax_revenue_stods_usd,275000000.0,USD,Malaysia Parliament (Nov 25 2025),Confidence 99%; Local 1150000000 RM
+Malaysia,2024,tax_revenue_stods_usd,389000000.0,USD,Malaysia Parliament (Nov 25 2025),Confidence 99%; Local 1620000000 RM
+Malaysia,2024,tax_revenue_lvg_usd,114000000.0,USD,Malaysia Parliament (Nov 25 2025),Confidence 99%; Local 476000000 RM
+Vietnam,2022,tax_revenue_foreign_portal_vat_usd,80000000.0,USD,Vietnam GDT Official,Confidence 98%; Local 1850000000000 VND
+Vietnam,2023,tax_revenue_foreign_portal_vat_usd,300000000.0,USD,Vietnam GDT Official,Confidence 98%; Local 6896000000000 VND
+Vietnam,2024,tax_revenue_foreign_portal_vat_usd,376000000.0,USD,Vietnam GDT Official,Confidence 98%; Local 8693000000000 VND
+Vietnam,2025 Jan-Aug,tax_revenue_foreign_portal_vat_usd,377000000.0,USD,Vietnam GDT Official,Confidence 98%; Local 8710000000000 VND
+Vietnam,2023,tax_revenue_domestic_ecommerce_vat_usd,4200000000.0,USD,Vietnam GDT Official,Confidence 95%; Local 97000000000000 VND
+Vietnam,2024,tax_revenue_domestic_ecommerce_vat_usd,4700000000.0,USD,Vietnam GDT Official,Confidence 95%; Local 108000000000000 VND
+Vietnam,2025 Jan-Aug,tax_revenue_domestic_ecommerce_vat_usd,5800000000.0,USD,Vietnam GDT Official,Confidence 95%; Local 134900000000000 VND
+Indonesia,2020,tax_revenue_pmse_vat_usd,50000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 730000000000 Rp
+Indonesia,2021,tax_revenue_pmse_vat_usd,270000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 3900000000000 Rp
+Indonesia,2022,tax_revenue_pmse+crypto+fintech+sipp_usd,460000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 6610000000000 Rp
+Indonesia,2023,tax_revenue_pmse+crypto+fintech+sipp_usd,640000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 9210000000000 Rp
+Indonesia,2024,tax_revenue_pmse+crypto+fintech+sipp_usd,825000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 11870000000000 Rp
+Indonesia,2025 Jan-Oct 31 Cumulative,tax_revenue_all_streams_usd,3040000000.0,USD,Indonesia Ministry of Finance (Tempo Oct 2025),Confidence 95%; Local 43750000000000 Rp
+Indonesia,2024,tax_revenue_pmse_vat_component_usd,585000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 8440000000000 Rp
+Indonesia,2024,tax_revenue_fintech_tax_component_usd,103000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 1480000000000 Rp
+Indonesia,2024,tax_revenue_sipp_tax_component_usd,92000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 1330000000000 Rp
+Indonesia,2024,tax_revenue_crypto_tax_component_usd,43000000.0,USD,Indonesia Ministry of Finance (Tempo),Confidence 95%; Local 620000000000 Rp
+Philippines,2025 Sep 9,tax_revenue_ra_12023_digital_services_tax_-_b2c_usd,30000000.0,USD,Bureau of Internal Revenue (PhilStar Sep 2025),Confidence 90%; Local 1650000000 PHP
+Philippines,2025 Sep 9,tax_revenue_ra_12023_digital_services_tax_-_b2b_usd,20000000.0,USD,Bureau of Internal Revenue (PhilStar Sep 2025),Confidence 90%; Local 1140000000 PHP
+Philippines,2025 Sep 9,tax_revenue_ra_12023_total_collections_(3_months)_usd,50000000.0,USD,Bureau of Internal Revenue (PhilStar Sep 2025),Confidence 90%; Local 2800000000 PHP
+Philippines,2025 Projection,tax_revenue_ra_12023_full_year_(50%_compliance)_usd,129000000.0,USD,Philippine Department of Finance,Confidence 70%; Local 7250000000 PHP
+Thailand,2023 Q1 (Oct-Dec 2022),tax_revenue_ves_usd,45000000.0,USD,Thailand Revenue Department (UNCTAD),Confidence 85%; Local 1650000000000 THB
+Thailand,2023 Q2 (Jan-Mar 2023),tax_revenue_ves_usd,45000000.0,USD,Thailand Revenue Department (UNCTAD),Confidence 85%; Local 1640000000000 THB
+Thailand,2023 Q3 (Apr-Jun 2023),tax_revenue_ves_usd,47000000.0,USD,Thailand Revenue Department (UNCTAD),Confidence 85%; Local 1720000000000 THB
+Thailand,2023 9-Month Total,tax_revenue_ves_usd,139000000.0,USD,Thailand Revenue Department (UNCTAD),Confidence 85%; Local 5010000000000 THB
+Thailand,2022,tax_revenue_ves_full_year_usd,163000000.0,USD,Thailand Revenue Department,Confidence 85%; Local 5900000000000 THB
+Asean Regional,2020,tax_revenue_digital_economy_gmv_usd,98000000.0,USD,e-Conomy SEA 2020,Confidence 95%; Local 98000000000 USD
+Asean Regional,2024,tax_revenue_digital_economy_gmv_usd,200000000.0,USD,e-Conomy SEA 2024,Confidence 95%; Local 200000000000 USD
+Indonesia,2020,tax_revenue_digital_economy_gmv_usd,44000000.0,USD,e-Conomy SEA 2020,Confidence 95%; Local 44000000000 USD
+Indonesia,2024,tax_revenue_digital_economy_gmv_usd,90000000.0,USD,e-Conomy SEA 2024,Confidence 95%; Local 90000000000 USD
+Vietnam,2020,tax_revenue_digital_economy_gmv_usd,16000000.0,USD,e-Conomy SEA 2020,Confidence 95%; Local 16000000000 USD
+Vietnam,2024,tax_revenue_digital_economy_gmv_usd,32000000.0,USD,e-Conomy SEA 2024,Confidence 95%; Local 32000000000 USD
+Philippines,2020,tax_revenue_digital_economy_gmv_usd,18000000.0,USD,e-Conomy SEA 2020,Confidence 95%; Local 18000000000 USD
+Philippines,2024,tax_revenue_digital_economy_gmv_usd,38000000.0,USD,e-Conomy SEA 2024,Confidence 95%; Local 38000000000 USD
+Thailand,2020,tax_revenue_digital_economy_gmv_usd,12000000.0,USD,e-Conomy SEA 2020,Confidence 95%; Local 12000000000 USD
+Thailand,2024,tax_revenue_digital_economy_gmv_usd,24000000.0,USD,e-Conomy SEA 2024,Confidence 95%; Local 24000000000 USD
+Malaysia,2020,tax_revenue_digital_economy_gmv_usd,8000000.0,USD,e-Conomy SEA 2020,Confidence 95%; Local 8000000000 USD
+Malaysia,2024,tax_revenue_digital_economy_gmv_usd,16000000.0,USD,e-Conomy SEA 2024,Confidence 95%; Local 16000000000 USD

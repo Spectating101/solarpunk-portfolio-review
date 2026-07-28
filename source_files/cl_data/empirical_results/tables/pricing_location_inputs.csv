@@ -1,0 +1,6 @@
+Location,Latitude,Longitude,S₀ ($/kWh),"σ (annual, %)",Risk-free r,σ source
+Taiwan,23.5,120.9,0.0525,189%,2.5%,"NASA POWER daily irradiance log returns, 2019–2024; 4-day rolling mean + 1% tail trim (Taiwan method)"
+Saudi Arabia,24.7,46.7,0.055,172%,2.5%,"NASA POWER daily irradiance log returns, 2019–2024; 4-day rolling mean + 1% tail trim (Taiwan method)"
+"Arizona, USA",33.4,-112.1,0.058,165%,4.5%,"NASA POWER daily irradiance log returns, 2019–2024; 4-day rolling mean + 1% tail trim (Taiwan method)"
+Brazil,-23.5,-46.6,0.095,198%,13.5%,"NASA POWER daily irradiance log returns, 2019–2024; 4-day rolling mean + 1% tail trim (Taiwan method)"
+Germany,48.1,11.6,0.025,45%,3.5%,"NASA POWER daily irradiance log returns, 2019–2024; 4-day rolling mean + 1% tail trim (Taiwan method)"

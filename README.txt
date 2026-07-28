@@ -39,7 +39,44 @@ Contents:
 
 Author's own connection: Christopher is the author of all three papers and
 is also connected to the SPK/Constrained Ledger project referenced in
-paper #1 (disclosed directly in that paper).
+paper #1. NOTE: as of this package, that connection is NOT yet disclosed
+anywhere in the paper's own text — this is a confirmed open item, see
+FIXES_NEEDED.md #3.
+
+6. FIXES_NEEDED.md
+   A findings brief from an independent review pass, with every item marked
+   CONFIRMED (independently re-derived — recomputed from source code, checked
+   against the actual document text, or verified against the cited literature
+   via live search) or NOT CONFIRMED/RETRACTED (a claim that did not hold up
+   under direct verification, kept in the file so it isn't re-litigated).
+   Includes corrected values, root causes, and a suggested fix priority order.
+
+7. source_files/
+   Editable source needed to actually implement the fixes above, not just
+   read about them:
+   - build_cl_journal.py, build_cl_complete.py — the scripts that generate
+     the Constrained Ledger docx files. The wrong option price (see
+     FIXES_NEEDED.md #1) is hardcoded directly in these, not computed live.
+   - options_pricing.py — the actual pricing model (Black-Scholes, binomial,
+     Monte Carlo, VaR margin). This is the source of truth; its own
+     docstrings already state some of the correct values that the papers
+     above got wrong when transcribing them.
+   - cl_analysis_scripts/ — the CEIR regression, negative-control, break-test,
+     and audit scripts behind the Constrained Ledger's empirical Section 3.
+   - cl_data/empirical_results/ — every underlying CSV/JSON dataset behind
+     the Constrained Ledger's numbers (CEIR panel, pricing convergence,
+     margin stress tests, negative controls, etc).
+   - cl_data/hash_rate_analysis/, cl_data/code_reference/ — supporting
+     hash-rate data and the SPK pillar/engine logic referenced in Section 5's
+     built system.
+   - il_data/ — the underlying ASEAN platform GTV/revenue datasets behind
+     Invisible Ledger's tables.
+   - eci_figures_only/ — ECI's output figures ONLY. IMPORTANT GAP: no raw
+     dataset or generating script for ECI (crypto/DeFi/electricity/WEI pulls)
+     exists anywhere in this repository. Its numbers can currently only be
+     checked for internal consistency (as done in FIXES_NEEDED.md #11-13),
+     not independently re-derived from source data. If that matters for the
+     review, the underlying pulls need to be redone and saved first.
 
 Open questions the author would like independent input on:
 - Overall quality and rigor of each paper, judged on its own terms
@@ -48,3 +85,5 @@ Open questions the author would like independent input on:
   encountering it cold, without prior context
 - Anything that reads as overclaiming, underdisclosed limitation, or
   a gap between what's tested and what's claimed
+- Whether FIXES_NEEDED.md's confirmed items are complete, or whether the
+  underlying data/scripts turn up anything further

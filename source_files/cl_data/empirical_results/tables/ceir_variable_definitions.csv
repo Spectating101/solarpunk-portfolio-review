@@ -1,0 +1,8 @@
+Symbol,Definition,Units
+CEIR_t,MarketCap_t / CumulativeEnergyCost_t,Ratio (×)
+log(CEIR_t),Natural log of CEIR; 1% winsorized in preferred regression (`log_ceir_w`),log points
+"R_{t,t+30}",Price_{t+30}/Price_t − 1,Proportion
+vol30,Rolling 30-day std of daily returns,Proportion
+fg,Standardised Fear & Greed Index,z-score
+trend,Linear time index (0 … T),Days
+post_china_ban,1 if Date ≥ 2021-06-20,Indicator

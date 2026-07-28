@@ -1,0 +1,16 @@
+{
+  "n": 2280,
+  "interaction_terms_tested": [
+    "log_ceir_x_post",
+    "post_ban:fg",
+    "post_ban:trend",
+    "post_ban:vol30"
+  ],
+  "single_beta3_coef": 0.19153671756736698,
+  "single_beta3_p_hac": 0.03155114073183182,
+  "single_beta3_p_cluster": 0.03264545258708193,
+  "adj_r2": 0.1455515232876522,
+  "joint_wald_p_hac": 0.13295975004493019,
+  "joint_wald_p_cluster": 0.12568481175123625,
+  "joint_hypothesis": "log_ceir_x_post = 0, post_ban:fg = 0, post_ban:trend = 0, post_ban:vol30 = 0"
+}

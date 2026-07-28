@@ -1,0 +1,45 @@
+Country,Year_or_Period,Tax_Type,Revenue_Local,Currency,Revenue_USD_Approx,YoY_Growth_Percent,Data_Confidence,Source
+Malaysia,2020,SToDS,428000000,RM,103000000,--,99%,Malaysia Parliament (Nov 25 2025)
+Malaysia,2021,SToDS,802000000,RM,192000000,87.4%,99%,Malaysia Parliament (Nov 25 2025)
+Malaysia,2022,SToDS,999000000,RM,239000000,24.6%,99%,Malaysia Parliament (Nov 25 2025)
+Malaysia,2023,SToDS,1150000000,RM,275000000,15.1%,99%,Malaysia Parliament (Nov 25 2025)
+Malaysia,2024,SToDS,1620000000,RM,389000000,40.9%,99%,Malaysia Parliament (Nov 25 2025)
+Malaysia,2024,LVG,476000000,RM,114000000,--,99%,Malaysia Parliament (Nov 25 2025)
+Vietnam,2022,Foreign Portal VAT,1850000000000,VND,80000000,--,98%,Vietnam GDT Official
+Vietnam,2023,Foreign Portal VAT,6896000000000,VND,300000000,272.9%,98%,Vietnam GDT Official
+Vietnam,2024,Foreign Portal VAT,8693000000000,VND,376000000,25.9%,98%,Vietnam GDT Official
+Vietnam,2025 Jan-Aug,Foreign Portal VAT,8710000000000,VND,377000000,40.0%,98%,Vietnam GDT Official
+Vietnam,2023,Domestic Ecommerce VAT,97000000000000,VND,4200000000,--,95%,Vietnam GDT Official
+Vietnam,2024,Domestic Ecommerce VAT,108000000000000,VND,4700000000,11.3%,95%,Vietnam GDT Official
+Vietnam,2025 Jan-Aug,Domestic Ecommerce VAT,134900000000000,VND,5800000000,25.0%,95%,Vietnam GDT Official
+Indonesia,2020,PMSE VAT,730000000000,Rp,50000000,--,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2021,PMSE VAT,3900000000000,Rp,270000000,434.2%,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2022,PMSE+Crypto+Fintech+SIPP,6610000000000,Rp,460000000,69.5%,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2023,PMSE+Crypto+Fintech+SIPP,9210000000000,Rp,640000000,39.3%,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2024,PMSE+Crypto+Fintech+SIPP,11870000000000,Rp,825000000,29.0%,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2025 Jan-Oct 31 Cumulative,All Streams,43750000000000,Rp,3040000000,--,95%,Indonesia Ministry of Finance (Tempo Oct 2025)
+Indonesia,2024,PMSE VAT Component,8440000000000,Rp,585000000,71.0% of total,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2024,Fintech Tax Component,1480000000000,Rp,103000000,12.5% of total,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2024,SIPP Tax Component,1330000000000,Rp,92000000,11.2% of total,95%,Indonesia Ministry of Finance (Tempo)
+Indonesia,2024,Crypto Tax Component,620000000000,Rp,43000000,5.2% of total,95%,Indonesia Ministry of Finance (Tempo)
+Philippines,2025 Sep 9,RA 12023 Digital Services Tax - B2C,1650000000,PHP,30000000,--,90%,Bureau of Internal Revenue (PhilStar Sep 2025)
+Philippines,2025 Sep 9,RA 12023 Digital Services Tax - B2B,1140000000,PHP,20000000,--,90%,Bureau of Internal Revenue (PhilStar Sep 2025)
+Philippines,2025 Sep 9,RA 12023 Total Collections (3 months),2800000000,PHP,50000000,--,90%,Bureau of Internal Revenue (PhilStar Sep 2025)
+Philippines,2025 Projection,RA 12023 Full Year (50% compliance),7250000000,PHP,129000000,--,70%,Philippine Department of Finance
+Thailand,2023 Q1 (Oct-Dec 2022),VES,1650000000000,THB,45000000,--,85%,Thailand Revenue Department (UNCTAD)
+Thailand,2023 Q2 (Jan-Mar 2023),VES,1640000000000,THB,45000000,--,85%,Thailand Revenue Department (UNCTAD)
+Thailand,2023 Q3 (Apr-Jun 2023),VES,1720000000000,THB,47000000,--,85%,Thailand Revenue Department (UNCTAD)
+Thailand,2023 9-Month Total,VES,5010000000000,THB,139000000,--,85%,Thailand Revenue Department (UNCTAD)
+Thailand,2022,VES Full Year,5900000000000,THB,163000000,--,85%,Thailand Revenue Department
+ASEAN Regional,2020,Digital Economy GMV,98000000000,USD,98000000,--,95%,e-Conomy SEA 2020
+ASEAN Regional,2024,Digital Economy GMV,200000000000,USD,200000000,104%,95%,e-Conomy SEA 2024
+Indonesia,2020,Digital Economy GMV,44000000000,USD,44000000,--,95%,e-Conomy SEA 2020
+Indonesia,2024,Digital Economy GMV,90000000000,USD,90000000,105%,95%,e-Conomy SEA 2024
+Vietnam,2020,Digital Economy GMV,16000000000,USD,16000000,--,95%,e-Conomy SEA 2020
+Vietnam,2024,Digital Economy GMV,32000000000,USD,32000000,100%,95%,e-Conomy SEA 2024
+Philippines,2020,Digital Economy GMV,18000000000,USD,18000000,--,95%,e-Conomy SEA 2020
+Philippines,2024,Digital Economy GMV,38000000000,USD,38000000,111%,95%,e-Conomy SEA 2024
+Thailand,2020,Digital Economy GMV,12000000000,USD,12000000,--,95%,e-Conomy SEA 2020
+Thailand,2024,Digital Economy GMV,24000000000,USD,24000000,100%,95%,e-Conomy SEA 2024
+Malaysia,2020,Digital Economy GMV,8000000000,USD,8000000,--,95%,e-Conomy SEA 2020
+Malaysia,2024,Digital Economy GMV,16000000000,USD,16000000,100%,95%,e-Conomy SEA 2024

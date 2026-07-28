@@ -1,0 +1,12 @@
+{
+  "complete_start": "2018-01-01",
+  "first_day_cumulative_equals_daily": true,
+  "pre_2018_seed": 0.0,
+  "sum_daily_cost_2018": 3291766260.952522,
+  "cumulative_on_2019_01_01": 3299711025.4837084,
+  "daily_on_2019_01_01": 7944764.531186684,
+  "implied_stock_entering_2019_01_01_before_that_day": 3291766260.952522,
+  "electricity_price_used_in_2018": 0.076234375,
+  "energy_source": "CBECI annualised TWh \u2192 daily kWh = TWh*1e9/365",
+  "interpretation": "The ~$3.30bn figure on analysis_ready 2019-01-01 is NOT an external mysterious seed. It is the cumsum of daily_cost_usd from complete panel start 2018-01-01 through 2019-01-01 under the panel electricity_price (near-constant 0.076234375). Pre-2018 mining cost is NOT included (complete starts 2018-01-01 with cum=daily)."
+}

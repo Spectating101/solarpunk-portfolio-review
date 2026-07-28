@@ -1,0 +1,5 @@
+Method,Description,Sigma,Sigma %,Returns,JB p-value
+thesis_reconstructed,4-day rolling mean + 1% |log return| trim,1.8945300006771564,189.5%,2166,0.3489390132091065
+rolling_4d,4-day rolling-mean log returns,1.9972332436243116,199.7%,2188,2.7738005760093906e-15
+raw,Raw daily log returns,6.2320518898276545,623.2%,2191,6.832969492262948e-84
+monthly_deseasoned,Monthly deseasoned daily log returns,6.26902071543341,626.9%,2191,1.0644421344461228e-83

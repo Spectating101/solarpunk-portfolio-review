@@ -1,0 +1,6 @@
+Series,Source,Frequency,Role
+Bitcoin price & market cap,CoinGecko / parsed daily panel (`btc_ds_parsed.csv`),Daily,Outcome and CEIR numerator
+"Mining electricity (TWh, annualised)",Cambridge Bitcoin Electricity Consumption Index (CBECI),Daily (interpolated annual rate),Cumulative energy-cost base
+Weighted electricity price,Cambridge mining-map weighted prices (`weighted_electricity_prices_monthly.csv`),Monthly → daily,USD cost per kWh for cumulative cost
+Mining geography / ban split,Cambridge mining map; China ban date 2021-06-20,Event split,Regime indicator (`post_china_ban`)
+Fear & Greed Index,Alternative.me crypto sentiment index,Daily,Control (standardised in regression)
