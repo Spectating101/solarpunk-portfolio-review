@@ -1,0 +1,44 @@
+=== CORE 9 SPECIFICATIONS (rebuilt from live-pulled data) ===
+
+1. DeFi TVL YoY ~ US industrial production YoY: n=80, beta=229.8400, HAC p=0.1609
+2. DeFi TVL YoY ~ Euro-area industrial production YoY (TRUNCATED SAMPLE, see notes): n=48, beta=208.9116, HAC p=0.007542
+3. DeFi TVL YoY ~ G7 composite leading indicator (level, OECD-composite proxy): n=80, beta=513.5253, HAC p=0.1898
+4. DeFi TVL YoY ~ Weekly Economic Index (monthly avg): n=81, beta=317.5110, HAC p=0.172
+5. Stablecoin YoY ~ US industrial production YoY: n=92, beta=937.7101, HAC p=0.3728
+6. Stablecoin YoY ~ Weekly Economic Index: n=93, beta=450.9406, HAC p=0.5369
+7. BTC active addresses YoY ~ Weekly Economic Index: n=197, beta=11.9007, HAC p=0.5181
+8. Stablecoin YoY ~ M2 growth (2020-2022): n=36, beta=23.6490, HAC p=0.004925
+9. Stablecoin YoY ~ M2 growth (2023-2026): n=42, beta=8.8606, HAC p=9.17e-16
+
+=== SECTION 4: Electricity vs WEI (LEVELS, as literally described) ===
+
+N = 210, range 2009-01-01 00:00:00 to 2026-06-01 00:00:00
+electricity (level) ~ WEI (level): beta=0.3912, p=0.3035
+
+--- stationarity (ADF), LEVELS ---
+electricity: ADF stat=-0.767, p=0.8287
+WEI: ADF stat=-3.821, p=0.0027
+
+=== SECTION 4b: Electricity vs WEI (YoY growth, alternative specification) ===
+
+N = 222
+electricity YoY ~ WEI (level): beta=0.5879, p=8.639e-06
+
+--- stationarity (ADF), electricity YoY ---
+electricity YoY: ADF stat=-4.098, p=0.0010
+
+--- Granger causality (YoY electricity, stationary), electricity -> WEI ---
+lag 1: p=0.1208
+lag 2: p=0.0619
+lag 3: p=0.0904
+lag 4: p=0.0664
+lag 5: p=0.0788
+lag 6: p=0.1137
+
+--- Granger causality (YoY electricity, stationary), WEI -> electricity ---
+lag 1: p=0.0019
+lag 2: p=0.0109
+lag 3: p=0.0535
+lag 4: p=0.0872
+lag 5: p=0.1256
+lag 6: p=0.1544
