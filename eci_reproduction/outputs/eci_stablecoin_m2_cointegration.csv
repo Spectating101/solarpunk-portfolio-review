@@ -1,0 +1,2 @@
+both_appear_I1,level_adf_p_log_sc,level_adf_p_log_m2,diff_adf_p_log_sc,diff_adf_p_log_m2,engle_granger_run,reason
+False,0.8676444225326828,1.0,0.10063751408909893,0.00027238233484456055,False,Integration orders not confirmed both I(1) in exact window (small-sample ADF power is low at N~42); Engle-Granger not run to avoid a forced/unsupported cointegration claim.

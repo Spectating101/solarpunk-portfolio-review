@@ -1,0 +1,5 @@
+Python 3.13
+pandas 3.0.5
+statsmodels 0.14.6
+scipy 1.18.0
+arch (installed 2026-07-31, latest at install time)
